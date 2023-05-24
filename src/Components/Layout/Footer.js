@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="container">
         <div className="d-flex align-items-center justify-content-center p-2">
           <a
-            href="https://www.shopify.com"
+            href="https://www.snapdeal.com"
             target="_blank"
             rel="noopener noreferrer"
             className="mx-3"
@@ -18,7 +18,7 @@ const Footer = () => {
             <TbWorldWww className="text-info h5" />
           </a>
           <a
-            href="https://twitter.com/shopifydevs"
+            href="https://twitter.com/snapdeal"
             target="_blank"
             rel="noopener noreferrer"
             className="mx-3"
@@ -26,7 +26,7 @@ const Footer = () => {
             <AiFillTwitterCircle className="text-info h5" />
           </a>
           <a
-            href="https://www.facebook.com/shopify"
+            href="https://www.facebook.com/snapdeal"
             target="_blank"
             rel="noopener noreferrer"
             className="mx-3"
@@ -44,7 +44,7 @@ const Footer = () => {
           Privacy Policy
         </Link>
       </p>
-      <h6 className="text-center">&copy; 2022-2023 AsiaShop.in</h6>
+      <h6 className="text-center">&copy; 2023 Snapdeal</h6>
     </div>
   );
 };

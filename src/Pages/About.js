@@ -10,7 +10,7 @@ const About = () => {
             <div className="mt-5">
               <h5 className="mt-2 p-2">About us</h5>
               <h2 className="p-2 fw-bold my-3">
-                Asia Shop powers millions of businesses worldwide
+                Snapdeal powers millions of businesses worldwide
               </h2>
               <h6 className="p-2">
                 The all-in-one commerce platform to start, run, and grow a
