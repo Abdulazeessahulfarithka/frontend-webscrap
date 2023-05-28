@@ -96,7 +96,7 @@ const CartPage = () => {
               : "Your Cart Is Empty"}
           </p>
           <p className="text-center">
-            <b>Card Number :</b>4242 4242 4242 4242 and <b>CVV:</b>123
+            <b>Card Number :</b>3251 8020 8200 3250 and <b>CVV:</b>567
           </p>
         </div>
         <div className="col-md-6 ">
