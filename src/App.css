@@ -31,16 +31,3 @@
   color: green;
   font-weight: bold;
 }
-.text-center{
-align-items:center;
-}
-.d-flex{
-align-items:center;
-width: 200px;
-padding:50px;
-} 
-
- .navbar-expand-lg{
-  flex-wrap:flex;
-  justify-content:flex-start;
-}
